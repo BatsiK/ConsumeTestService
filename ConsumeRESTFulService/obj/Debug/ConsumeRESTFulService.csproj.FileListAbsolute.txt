@@ -1,0 +1,5 @@
+c:\Users\bkahwenga.batsipc\documents\visual studio 2015\Projects\Bfizz\ConsumeRESTFulService\bin\Debug\ConsumeRESTFulService.dll
+c:\Users\bkahwenga.batsipc\documents\visual studio 2015\Projects\Bfizz\ConsumeRESTFulService\bin\Debug\ConsumeRESTFulService.pdb
+c:\Users\bkahwenga.batsipc\documents\visual studio 2015\Projects\Bfizz\ConsumeRESTFulService\obj\Debug\ConsumeRESTFulService.csprojResolveAssemblyReference.cache
+c:\Users\bkahwenga.batsipc\documents\visual studio 2015\Projects\Bfizz\ConsumeRESTFulService\obj\Debug\ConsumeRESTFulService.dll
+c:\Users\bkahwenga.batsipc\documents\visual studio 2015\Projects\Bfizz\ConsumeRESTFulService\obj\Debug\ConsumeRESTFulService.pdb
