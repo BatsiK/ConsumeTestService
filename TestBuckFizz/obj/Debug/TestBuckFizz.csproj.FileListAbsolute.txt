@@ -1,0 +1,10 @@
+c:\Users\bkahwenga.batsipc\documents\visual studio 2015\Projects\Bfizz\TestBuckFizz\bin\Debug\TestBuckFizz.dll
+c:\Users\bkahwenga.batsipc\documents\visual studio 2015\Projects\Bfizz\TestBuckFizz\bin\Debug\TestBuckFizz.pdb
+c:\Users\bkahwenga.batsipc\documents\visual studio 2015\Projects\Bfizz\TestBuckFizz\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\bkahwenga.batsipc\documents\visual studio 2015\Projects\Bfizz\TestBuckFizz\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\Users\bkahwenga.batsipc\documents\visual studio 2015\Projects\Bfizz\TestBuckFizz\obj\Debug\TestBuckFizz.csprojResolveAssemblyReference.cache
+c:\Users\bkahwenga.batsipc\documents\visual studio 2015\Projects\Bfizz\TestBuckFizz\obj\Debug\TestBuckFizz.dll
+c:\Users\bkahwenga.batsipc\documents\visual studio 2015\Projects\Bfizz\TestBuckFizz\obj\Debug\TestBuckFizz.pdb
+c:\Users\bkahwenga.batsipc\documents\visual studio 2015\Projects\Bfizz\TestBuckFizz\bin\Debug\TestBuckFizz.dll.config
+c:\Users\bkahwenga.batsipc\documents\visual studio 2015\Projects\Bfizz\TestBuckFizz\bin\Debug\RESTFulService.dll
+c:\Users\bkahwenga.batsipc\documents\visual studio 2015\Projects\Bfizz\TestBuckFizz\bin\Debug\RESTFulService.pdb
